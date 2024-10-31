@@ -18,12 +18,9 @@
     font-weight: 600;
     src: url('../fonts/Exo2-SemiBold.woff2') format('woff2');
 }
-.hero-bg{
-    background-image: url("../images/hero-bg.png");
+.hero-img{
+    background-image: url("../images/hero-img.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
-}
-:root{
-    --site-black:#363738;
 }
